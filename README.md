@@ -12,4 +12,8 @@ Machines OSCP: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3
 
 Machines Writeups: https://0xdf.gitlab.io/
 
+## Topics:
+Articles about OSCP:  https://github.com/0x4D31/awesome-oscp#oscp-reviews-and-guides
+
+
 
